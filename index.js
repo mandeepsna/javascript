@@ -1,9 +1,7 @@
-const accountId = 1245;
-let acountEmail;
-{
-  acountEmail = "mandeepe@ymail.com";
-}
-acountEmail = "deep@yahoo.com";
-var accountPassword = "abc";
-let accountState;
-console.table([accountId, acountEmail, accountPassword,accountState]);
+"use strict" 
+const value=null;
+let uValue;
+ const ary=['apple','mango','banana']
+ console.log(typeof(ary));
+ console.log(value);
+ console.log(uValue);
